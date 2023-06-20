@@ -1,0 +1,11 @@
+debug/dialog.o
+debug/form.o
+debug/main.o
+debug/game.o
+debug/mainwindow.o
+debug/snake.o
+debug/moc_Form.o
+debug/moc_Game.o
+debug/moc_Mainwindow.o
+debug/moc_Snake.o
+debug/moc_dialog.o

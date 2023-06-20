@@ -1,0 +1,11 @@
+release/dialog.o
+release/form.o
+release/main.o
+release/game.o
+release/mainwindow.o
+release/snake.o
+release/moc_Form.o
+release/moc_Game.o
+release/moc_Mainwindow.o
+release/moc_Snake.o
+release/moc_dialog.o
